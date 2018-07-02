@@ -1,0 +1,5 @@
+# exclude everything
+raw_recipes/*
+
+# exception to the rule
+!raw_recipes/.gitkeep 
